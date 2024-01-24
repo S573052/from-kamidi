@@ -27,3 +27,15 @@
 * Loft
 
 [Favourite song with picture](MyMedia.md)
+
+*****
+## Recommended Songs
+
+I recommend a selection of English songs that offer a diverse musical experience. Each song has its own unique appeal, catering to different moods and preferences.
+
+| Song Name       | Recommendation Reason                                   | Creator Name          |
+|-----------------------|---------------------------------------------------------|-----------------------|
+| "Bohemian Rhapsody"   | Epic and dynamic, a masterpiece in rock music           | Queen                 |
+| "Someone Like You"    | Emotionally powerful, Adele's soulful ballad            | Adele                 |
+| "Shape of You"        | Catchy and energetic, a contemporary pop sensation      | Ed Sheeran            |
+| "Billie Jean"         | Iconic and groovy, a Michael Jackson classic            | Michael Jackson      |
