@@ -39,3 +39,12 @@ I recommend a selection of English songs that offer a diverse musical experience
 | "Someone Like You"    | Emotionally powerful, Adele's soulful ballad            | Adele                 |
 | "Shape of You"        | Catchy and energetic, a contemporary pop sensation      | Ed Sheeran            |
 | "Billie Jean"         | Iconic and groovy, a Michael Jackson classic            | Michael Jackson      |
+
+****
+## Favourite Quotes
+
+>"In any moment of decision, the best thing you can do is the right thing, the next best thing is the wrong thing, and the worst thing you can do is nothing." -*Theodore Roosevelt*
+
+>"Do what you can, with what you have, where you are." -*Theodore Roosevelt*
+
+>"It is hard to fail, but it is worse never to have tried to succeed." -*Theodore Roosevelt*
