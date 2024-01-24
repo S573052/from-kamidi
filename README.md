@@ -48,3 +48,13 @@ I recommend a selection of English songs that offer a diverse musical experience
 >"Do what you can, with what you have, where you are." -*Theodore Roosevelt*
 
 >"It is hard to fail, but it is worse never to have tried to succeed." -*Theodore Roosevelt*
+***
+## Code to check for duplicates in a list Python
+
+Using this Python code checks whether a list has duplicate values by using set to grab only unique elements.
+
+```Python
+def check_for_duplicates(input):
+    return len(input) != len(set(input))
+```
+[Reference for the code](https://code.pieces.app/collections/python)
